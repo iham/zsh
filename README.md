@@ -41,7 +41,7 @@ make sure ```$ZSH_CUSTOM``` exists; if not: ```source ~/.zshrc``` and then:
 ```git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k```
 
 ### update zsh
-replace configs in ~/.zshrc with those here in <.zshrc>
+replace configs in ~/.zshrc with those here in [.zshrc](https://github.com/iham/zsh/blob/main/.zshrc)
 
 ### update powerlevel10k
-replace configs in ~/.p10k.zsh with those here in <.p10k.zsh>
+replace configs in ~/.p10k.zsh with those here in [.p10k.zsh](https://github.com/iham/zsh/blob/main/.p10k.zsh)
